@@ -286,4 +286,4 @@ https://github.com/AlejaEspinoza/Sistema_Rutas_IA.git
 
 ### Video de presentación
 
-[Enlace al video](URL_DEL_VIDEO)
+https://youtu.be/N4nwCWcYduY
