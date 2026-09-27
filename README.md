@@ -282,7 +282,7 @@ El proyecto fue desarrollado utilizando las siguientes tecnologías:
 
 ### Repositorio GitHub
 
-[Enlace al repositorio](URL_DEL_REPOSITORIO)
+https://github.com/AlejaEspinoza/Sistema_Rutas_IA.git
 
 ### Video de presentación
 
